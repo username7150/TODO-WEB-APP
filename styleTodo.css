@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(228, 228, 233) !important;
+    
+}
+
+img{
+    
+    width: 1540px;
+    padding: 5px;
+    border: 5px solid rgb(26, 129, 3);
+   
+
+}
+
+p{
+    padding: 10px;
+    margin-left: 300px;
+    font-size: 30px;
+}
+
+#input{
+    width: 500px;
+    margin-right: 7px;
+}
+
+#btn{
+    width: 200px ;
+
+}
+
+.inpbtn{
+    margin-left: 300px;
+    
+    display: flex;
+    /* flex-direction: row; */
+    height: 50px;
+
+}
+
+
+
+li{
+    padding: 6px;
+
+}
+
+ul{
+    margin-left: 300px;
+    padding-top: 30px;
+
+}
